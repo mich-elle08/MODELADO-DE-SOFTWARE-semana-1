@@ -1,0 +1,1 @@
+La decisión más difícil fue si debíamos incluir la clase Boleto. La IA nos sugirió añadirla, y decidimos aceptar la sugerencia. Sin esta clase, no habríamos podido representar que un pasajero tiene un boleto por cada vuelo de su viaje, cada uno con su asiento asignado.

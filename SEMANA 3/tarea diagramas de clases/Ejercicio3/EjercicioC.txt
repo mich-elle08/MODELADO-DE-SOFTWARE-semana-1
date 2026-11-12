@@ -1,0 +1,3 @@
+La decisión más difícil fue cómo modelar las calificaciones. El cliente califica por separado al restaurante y al repartidor, así que había que decidir entre crear dos clases distintas (CalificacionRestaurante y CalificacionRepartidor) o una sola clase Calificacion con dos asociaciones desde Pedido.
+
+Uso de IA: usamos Claude para revisar el ejercicio y nos sugirió heredar Cliente y Repartidor de Usuario, aplicar composición donde una clase no existe sin su todo, y agregar una clase Plataforma para listar los pedidos en camino.

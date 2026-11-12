@@ -1,0 +1,2 @@
+La decisión tomada respecto a la IA, fue implementar y aceptar las "enumerations" para de esta manera que dichos atributos tuvieran de opcion
+unicamente los previamente listados y que en caso de querer ingresar algo diferente, no sea permitido.
